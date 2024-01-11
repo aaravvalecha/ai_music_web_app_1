@@ -1,0 +1,12 @@
+body{
+    background-size:cover ;
+}
+    .heading{
+        margin: 0;
+        width: 100%;
+        box-shadow: 5px 5px 5px rgb(215, 144, 118);
+    }
+    .note{
+        font-size: 15px;
+    }
+
